@@ -47,14 +47,12 @@ I'm working towards <strong>making a positive impact on Society</strong> !!</h3>
 
 <img align="left" width="30px" src="https://img.icons8.com/color/48/000000/github--v1.png"/>
 
-<br />
-<br />
+<br/>
+<br/>
 
 ![Shashank's github stats](https://github-readme-stats.vercel.app/api?username=shshankm597&show_icons=true&title_color=fee715ff&icon_color=79ff97&text_color=a9fef7&bg_color=151515)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shshankm597&show_icons=true&title_color=fee715ff&icon_color=79ff97&text_color=a9fef7&bg_color=151515)
-
-<br/>
 
 ## Socials:
 
