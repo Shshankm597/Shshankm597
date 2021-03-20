@@ -1,4 +1,4 @@
-### Hi there 👋 I'm Shashank
+# Hi there 👋 I'm Shashank
 
 <!--
 **Shshankm597/Shshankm597** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -48,15 +48,15 @@ I'm working towards <strong>making a positive impact on Society</strong> !!</h3>
 <img align="left" width="30px" src="https://img.icons8.com/color/48/000000/github--v1.png"/>
 
 <br />
-<br />
 
 ![Shashank's github stats](https://github-readme-stats.vercel.app/api?username=shshankm597&show_icons=true&title_color=fee715ff&icon_color=79ff97&text_color=a9fef7&bg_color=151515)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shshankm597&show_icons=true&title_color=fee715ff&icon_color=79ff97&text_color=a9fef7&bg_color=151515)
 
 <br/>
+<br/>
 
-### Socials:
+## Socials:
 
 [<img align="left" alt=" Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />](https://twitter.com/Shashankm597)
 
