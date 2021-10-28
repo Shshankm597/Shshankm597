@@ -1,5 +1,3 @@
-# Hi there 👋 I'm Shashank
-
 <!--
 **Shshankm597/Shshankm597** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -15,12 +13,37 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+# Hi there 👋
 
-<h3>I’m just a regular guy learning Full Stack Web Development. I love exploring new skills.
-I'm working towards <strong>making a positive impact on Society</strong> !!</h3>
+<div align="left">
+  <a href="https://twitter.com/Shashankm597">
+    <img
+      src="https://img.shields.io/twitter/url?label=Follow&style=social&url=https%3A%2F%2Ftwitter.com%2FShashankm597"
+      alt="Twitter"
+    />
+  </a>
+  <a href="https://www.linkedin.com/in/shshankm597">
+    <img
+      src="https://img.shields.io/static/v1?logo=linkedin&style=social&label=Follow&url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fshshankm597&message=%E2%98%86"
+      alt="LinkedIn"
+    />
+  </a>
+
+  <a href="https://app.daily.dev/shshankm597" target="_blank">
+    <img src="https://api.daily.dev/devcards/1569efd6794340648a8ac4cbf7b91a22.png?r=uee"
+         width="256"
+         align="right"
+         alt="Shashank Shekhar Mishra's Dev Card"
+      />
+  </a>
+</div>
+
 <br />
 
-[My Portfolio](https://devshashank.netlify.app/)
+## I am Shashank
+
+- Frontend Developer (Full-stack generalist)
+- Loves a cup of coffee and taling about life and tech
 
 ## Languages And Skills:
 
@@ -49,20 +72,8 @@ I'm working towards <strong>making a positive impact on Society</strong> !!</h3>
 
 <br/>
 <br/>
+<br/>
 
 ![Shashank's github stats](https://github-readme-stats.vercel.app/api?username=shshankm597&show_icons=true&title_color=fee715ff&icon_color=79ff97&text_color=a9fef7&bg_color=151515)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shshankm597&show_icons=true&title_color=fee715ff&icon_color=79ff97&text_color=a9fef7&bg_color=151515)
-
-<a href="https://app.daily.dev/shshankm597"><img src="https://api.daily.dev/devcards/1569efd6794340648a8ac4cbf7b91a22.png?r=uee" width="400" alt="Shashank Shekhar Mishra's Dev Card" style="float:right"/></a>
-
-## Socials:
-
-[<img align="left" alt=" Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" style="background-color: blue"/>](https://twitter.com/Shashankm597)
-
-[<img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/shashank-shekhar-mishra-259a05148/)
-
-[<img align="left" alt="Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/gmail.svg" />](mailto:shshankm597@gmail.com)
-
-<br />  
-<br />
