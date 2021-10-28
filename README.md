@@ -54,7 +54,7 @@ I'm working towards <strong>making a positive impact on Society</strong> !!</h3>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shshankm597&show_icons=true&title_color=fee715ff&icon_color=79ff97&text_color=a9fef7&bg_color=151515)
 
-<a href="https://app.daily.dev/shshankm597"><img src="https://api.daily.dev/devcards/1569efd6794340648a8ac4cbf7b91a22.png?r=uee" width="400" alt="Shashank Shekhar Mishra's Dev Card"/></a>
+<a href="https://app.daily.dev/shshankm597"><img src="https://api.daily.dev/devcards/1569efd6794340648a8ac4cbf7b91a22.png?r=uee" width="400" alt="Shashank Shekhar Mishra's Dev Card" style="float:right"/></a>
 
 ## Socials:
 
